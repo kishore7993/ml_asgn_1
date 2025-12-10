@@ -16,7 +16,7 @@ Using a fixed neural network architecture and controlled experimental conditions
 Repository Structure
 .
 ├── notebook/
-│   └── regularization_comparison.ipynb
+│   └── amokh_code.ipynb
 ├── figures/
 │   └── (generated automatically by the notebook)
 ├── README.md
@@ -88,7 +88,7 @@ All hyperparameters except the regularisation strategy are held constant to isol
 
 How to Run the Code
 1. Clone the repository
-git clone <your-github-repo-link>
+git clone https://github.com/kishore7993/ml_asgn_1.git
 cd <repo-name>
 
 2. Install dependencies
